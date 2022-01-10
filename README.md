@@ -449,10 +449,10 @@ git log -S "palabrabuscar"
 
   
 
-> #### Created BY AugusTCaceresSuarez :fire: :slightly_smiling_face:
+> #### Creado por @soypanchojimenez:
 >
-> [August casuarz](https://twitter.com/ACasuarz) 
+> [Pancho Jiménez](https://www.instagram.com/soypanchojimenez/) 
 >
-> [My Github](https://github.com/UtoSkydive)
+> [Mi Github](https://github.com/panjimavi)
 
   
